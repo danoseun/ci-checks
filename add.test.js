@@ -13,5 +13,5 @@ test('adds -3 + -5 to equal -8', () => {
 })
 
 test('adds 2 + 5 to equal 7', () => {
-    expect(addNumber.add(2,5)).toBe(8);
+    expect(addNumber.add(2,5)).toBe(7);
 })

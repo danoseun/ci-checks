@@ -9,5 +9,5 @@ test('adds 4 + 5 to equal 9', () => {
 });
 
 test('adds -3 + -5 to equal -8', () => {
-    expect(addNumber.add(-3,-5)).toBe(-6);
+    expect(addNumber.add(-3,-5)).toBe(-8);
 })
